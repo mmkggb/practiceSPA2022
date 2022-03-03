@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "parcel-build": "parcel build index.html && cp _redirects ./dist/",
+    "serve": "parcel index.html"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -14,7 +17,12 @@
     "prettier": "1.19.1"
   },
   "dependencies": {
+    "html-literal": "^1.1.0",
+    "install": "^0.13.0",
+    "lodash": "^4.17.21",
+    "navigo": "^8.11.1",
     "node": "^16.13.1",
+    "parcel": "^2.3.2",
     "yargs-parser": ">=13.1.2"
   }
 }
