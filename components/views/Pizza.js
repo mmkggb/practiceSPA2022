@@ -1,7 +1,6 @@
 import html from "html-literal";
 
 export default st => html`
-  <section id="pizza">
   <table id="pizzas">
 <tr><th>Crust</th><th>Cheese</th><th>Sauce</th><th>Toppings</th><th>Customer</th></tr>
 ${st.pizzas
@@ -17,11 +16,15 @@ ${st.pizzas
 </table>;
 
     </table>
-  </section>
+
 `;
 
 {
-  /* <table id="pizzas">
+  /* <section id="pizza">
+</section>
+{ */
+}
+/* <table id="pizzas">
 <tr>
   <th>Crust</th>
   <th>Cheese</th>
@@ -29,4 +32,3 @@ ${st.pizzas
   <th>Toppings</th>
 </tr>
 export default st => ` */
-}
