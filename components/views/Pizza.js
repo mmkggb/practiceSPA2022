@@ -18,17 +18,3 @@ ${st.pizzas
     </table>
 
 `;
-
-{
-  /* <section id="pizza">
-</section>
-{ */
-}
-/* <table id="pizzas">
-<tr>
-  <th>Crust</th>
-  <th>Cheese</th>
-  <th>Sauce</th>
-  <th>Toppings</th>
-</tr>
-export default st => ` */

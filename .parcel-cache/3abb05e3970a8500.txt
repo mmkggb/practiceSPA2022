@@ -7004,7 +7004,7 @@
 113C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-gnu.node132906669130960653 0
 105C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-html\lib\dependencies.js132906668977647065 0
 107C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\src\esmodule-helpers.js132906668989429681 0
-73C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\components\views\Pizza.js132913609407212897 0
+73C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\components\views\Pizza.js132913638658093534 0
 101C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\node_modules\.bin132906669206862003 1
 107C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\node_modules\semver\bin132906668976739497 1
 116C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\node_modules\semver\CHANGELOG.md132906669015794910 0
