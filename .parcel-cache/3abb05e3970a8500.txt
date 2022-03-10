@@ -105,7 +105,7 @@
 74C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\lmdb\write.js132906669114182847 0
 74C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\yaml\types.js132906669073287271 0
 87C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\lodash\_baseForOwnRight.js132907477171017801 0
-52C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist132913609429464849 1
+52C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist132914059047454727 1
 82C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\minimist\package.json132906669047169319 0
 90C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\stylehacks\types\isMixin.d.ts132906669065602432 0
 108C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\caniuse-lite\data\features\css-focus-visible.js132906669116866010 0
@@ -134,7 +134,7 @@
 86C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\lodash\_baseSampleSize.js132907477173745668 0
 91C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\source-map\lib\mapping-list.js132906669029555341 0
 92C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\caniuse-lite\data\regions\MQ.js132906669174753616 0
-56C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\index.js132913454645093421 0
+56C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\index.js132914058650560361 0
 96C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\watcher\src\watchman\IPC.hh132906669056488256 0
 70C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\callsites132906612364963092 1
 86C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\namer-default\src132906668986976255 1
@@ -1318,7 +1318,7 @@
 95C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\css-tree\lib\syntax\node\String.js132906669108504095 0
 77C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\nan\CHANGELOG.md132906668977902395 0
 111C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\terser\node_modules\source-map\lib\mapping-list.js132906669042177177 0
-70C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist\index.3d214d75.js132913609429065501 0
+70C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist\index.3d214d75.js132914059047261425 0
 112C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\transformer-js\node_modules\.bin\semver.cmd132906669207041572 0
 88C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\postcss-merge-rules\src\lib132906668977188303 1
 82C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\yaml\browser\types.js132906669071936744 0
@@ -7385,7 +7385,7 @@
 91C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\assetUtils.js132906669061864619 0
 92C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\BundleGraph.js132906669069445230 0
 92C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\Environment.js132906669085598683 0
-74C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist\index.3d214d75.js.map132913609429125327 0
+74C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\dist\index.3d214d75.js.map132914059047432867 0
 86C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\index.js132906669086975010 0
 87C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\Parcel.js132906669103594672 0
 100C:\Users\mmkgg\Code\SavvyCoders\practiceSPA2022\node_modules\@parcel\core\src\ParcelConfig.schema.js132906669105130545 0
