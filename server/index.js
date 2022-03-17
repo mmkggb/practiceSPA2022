@@ -3,9 +3,9 @@ const express = require("express");
 //Require mongoose for accessing mongDB
 const mongoose = require("mongoose");
 
-//Require dotenv to load environment
+// Require models
+const pizzas = require("./routers/pizzas");
 const dotenv = require("dotenv");
-
 dotenv.config();
 // Initialize the Express application
 const app = express();
@@ -26,6 +26,9 @@ const logging = (request, response, next) => {
 };
 app.use(express.json());
 app.use(logging);
+
+// Use Routers
+app.use("/pizzas", pizzas);
 
 // Handle the request with HTTP GET method from http://localhost:4040/status
 app.get("/status", (request, response) => {
